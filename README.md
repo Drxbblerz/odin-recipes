@@ -1,1 +1,1 @@
-# This will be a project with a couple of recipes, also of which where i demonsrate my newly found knowledge on HTML and such.
+This will be the very first assignment I'd be uploading through The Odin Project and I've learnt many new things already. Such as: Navigating through a terminal, how to use inputs, headers, and such. I have tried my best to make my code very easy to read!
